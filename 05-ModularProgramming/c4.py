@@ -18,4 +18,5 @@ print(f'Pole kola to: {pole}')
 silnia = (math.factorial(y))
 print(f'Silnia y to: {silnia}')
 
-
+nlcm =math.ceil(x)
+print(f'Najwieksza liczba calkowita <= x to: {nlcm}')
